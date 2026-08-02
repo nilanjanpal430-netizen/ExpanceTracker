@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense Tracker",
+  "description": "Comprehensive student expense management platform with visual analytics, AI insights, receipt OCR, budget forecasting, and cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
